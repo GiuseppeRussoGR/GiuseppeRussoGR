@@ -3,23 +3,20 @@ Ciao, sono Giuseppe 👋
 Sono un Jr. Full Stack Web Developer appassionato di tecnologia, videogames, film e programmazione in ricerca costante di un progetto che mi permetta di migliorarmi professionalmente.<br> 
 >Si lo so, ma al momento cosa so fare? <br>
 
-Le tecnologie che conosco al momento sono:<br><br>
+Le tecnologie che conosco al momento sono:<br>
 
 **Linguaggi**
-* HTML <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="20"/>
-* CSS/SASS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css" width="15"/> <img src="https://www.geekandjob.com/uploads/wiki/106eb730f7c2e52c9e0eb4b2d7a649ce.svg" alt="sass" width="20"/>
-* JAVASCRIPT/JQUERY <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Javascript-736400_960_720.png" alt="javascript" width="20"/> <img src="https://www.geekandjob.com/uploads/wiki/9c5c5609505f745111ebfd93454e437a.png" alt="jquery" width="28"/> 
-* PHP <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="php" width="28"/>
-* MYSQL <img src="https://www.geekandjob.com/uploads/wiki/eceb15684d4183c66f73c1a9bb777eef708b2b66.png" alt="mysql" width="28"/><br><br>
+--------------
+<img src="https://cdn.iconscout.com/icon/free/png-256/html5-10-569380.png" alt="html5" width="100"/> <img src="https://cdn.iconscout.com/icon/free/png-256/css-118-569410.png" alt="css" width="100"/> <img src="https://cdn.iconscout.com/icon/free/png-256/sass-2749336-2284726.png" alt="sass" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="javascript" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/jquery-10-1175155.png" alt="jquery" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png" alt="php" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/mysql-19-1174939.png" alt="mysql" width="100"/><br><br>
 
 **Framework:**
-* BOOTSTRAP
-* VUE
-* LARAVEL <br><br>
+--------------
+<img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png" alt="bootstrap" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/vuejs-1175052.png" alt="vue" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/laravel-2-1175146.png" alt="laravel" width="100"/>
+<br><br>
 
 **CMS**
-* WORDPRESS
-* JOOMLA <br><br>
+--------
+<img src="https://cdn.iconscout.com/icon/free/png-256/wordpress-35-569289.png" alt="wordpress" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/joomla-226006.png" alt="joomla" width="100"/><br><br>
 *...con la voglia di imparare sempre di più*
 
 
