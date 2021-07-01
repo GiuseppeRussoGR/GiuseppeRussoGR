@@ -1,6 +1,11 @@
 Ciao, sono Giuseppe 👋
 
-Sono un Jr. Full Stack Web Developer che ha reso una passione, un vero lavoro. Ma non sono solo questo, ho anche diversi hobbies come guardare serie TV o Film, navigare per cercare le ultime informazioni sulla tecnologia oppure,se il team scrive, dedicarmi a sessiosi di alcune ore su qualche multiplayer :smile:<br> 
+Sono un Jr. Full Stack Web Developer che ha reso una passione, un vero lavoro. Ma non sono solo questo, ho anche diversi hobbies come guardare serie TV o Film, navigare per cercare le ultime informazioni sulla tecnologia oppure,se il team scrive, dedicarmi a sessioni di alcune ore su qualche multiplayer :smile:<br>
+
+>Come puoi contattarmi?
+
+[PortFolio](https://www.giusepperusso-gr.it/)<br>
+[Linkedin](www.linkedin.com/in/giuseppe-russo-dev)
 
 >Ma al momento cosa so fare? <br>
 
