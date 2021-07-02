@@ -4,8 +4,8 @@ Sono un Jr. Full Stack Web Developer che ha reso una passione, un vero lavoro. M
 
 >Come puoi contattarmi?
 
-[PortFolio](https://www.giusepperusso-gr.it/)<br>
-[Linkedin](https://www.linkedin.com/in/giuseppe-russo-dev)
+<a href="https://www.giusepperusso-gr.it/"><img src="https://icon-library.com/images/site-icon-png/site-icon-png-9.jpg" width="70"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/giuseppe-russo-dev"><img src="https://orioni.co/nmedia/png/linkedin-6212.png" width="70" ></a><br>
 
 >Ma al momento cosa so fare? <br>
 
