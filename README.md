@@ -18,7 +18,7 @@ Le tecnologie che conosco al momento sono:<br>
 
 ## **Framework**
 
-<img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png" alt="bootstrap" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/vuejs-1175052.png" alt="vue" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/laravel-2-1175146.png" alt="laravel" width="100"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png" alt="bootstrap" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/vuejs-1175052.png" alt="vue" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/laravel-2-1175146.png" alt="laravel" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" alt="react" width="100"/>
 <br><br>
 
 ## **CMS**
