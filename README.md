@@ -12,13 +12,14 @@ Sono un Jr. Full Stack Web Developer che ha reso una passione, un vero lavoro. M
 
 Le tecnologie che conosco al momento sono:<br>
 
-## **Linguaggi**
+## **Linguaggi/Librerie**
 
-<img src="https://cdn.iconscout.com/icon/free/png-256/html5-10-569380.png" alt="html5" width="100"/> <img src="https://cdn.iconscout.com/icon/free/png-256/css-118-569410.png" alt="css" width="100"/> <img src="https://cdn.iconscout.com/icon/free/png-256/sass-2749336-2284726.png" alt="sass" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="javascript" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/jquery-10-1175155.png" alt="jquery" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png" alt="php" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/mysql-19-1174939.png" alt="mysql" width="100"/><br><br>
+<img src="https://cdn.iconscout.com/icon/free/png-256/html5-10-569380.png" alt="html5" width="100"/> <img src="https://cdn.iconscout.com/icon/free/png-256/css-118-569410.png" alt="css" width="100"/> <img src="https://cdn.iconscout.com/icon/free/png-256/sass-2749336-2284726.png" alt="sass" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="javascript" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/jquery-10-1175155.png" alt="jquery" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png" alt="php" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/mysql-19-1174939.png" alt="mysql" width="100"/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" alt="react" width="100"/><br><br>
 
 ## **Framework**
 
-<img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png" alt="bootstrap" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/vuejs-1175052.png" alt="vue" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/laravel-2-1175146.png" alt="laravel" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" alt="react" width="100"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png" alt="bootstrap" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/vuejs-1175052.png" alt="vue" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/laravel-2-1175146.png" alt="laravel" width="100"/>
 <br><br>
 
 ## **CMS**
