@@ -1,29 +1,36 @@
-Ciao, sono Giuseppe 👋
+# Hello Folks 👋
 
-Sono un Jr. Full Stack Web Developer che ha reso una passione, un vero lavoro. Ma non sono solo questo, ho anche diversi hobbies come guardare serie TV o Film, navigare per cercare le ultime informazioni sulla tecnologia oppure,se il team scrive, dedicarmi a sessioni di alcune ore su qualche multiplayer :smile:<br>
+![Border](Border.svg)
 
-> Come puoi contattarmi?
+Hi, I'm Giuseppe a Jr. Full Stack Web Developer from Italia.
+Always passionate about technology and curious about its logic, lover of Movies and SeriesTV and great gamer. A real Nerd. 🤓
 
-<a href="https://www.giusepperusso-gr.it/"><img src="https://icon-library.com/images/site-icon-png/site-icon-png-9.jpg" width="70"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/giuseppe-russo-dev"><img src="https://orioni.co/nmedia/png/linkedin-6212.png" width="70" ></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:giuseppe.russo.dev@gmail.com"><img src="https://icons.veryicon.com/png/Object/Flat%20Style/email.png" width="70"></a><br>
+## Reach me 📮
 
-> Ma al momento cosa so fare? <br>
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/giuseppe-russo-dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=flat&logo=bookstack&logoColor=white)](https://www.linkedin.com/in/giuseppe-russo-dev)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=minutemailer&logoColor=white)](mailto:giuseppe.russo.dev@gmail.com)
 
-Le tecnologie che conosco al momento sono:<br>
+### Technologies
 
-## **Linguaggi/Librerie**
+![HTML](https://img.shields.io/static/v1?message=HTML&logo=html5&labelColor=eb9834&color=85827f&logoColor=white&label=%20)
+![CSS](https://img.shields.io/static/v1?message=CSS&logo=css3&labelColor=0099ff&color=85827f&logoColor=white&label=%20)
+![JAVASCRIPT](https://img.shields.io/static/v1?message=JavaScript&logo=javascript&labelColor=ffff00&color=85827f&logoColor=black&label=%20)
+![SASS](https://img.shields.io/static/v1?message=SASS&logo=sass&labelColor=f97dff&color=85827f&logoColor=white&label=%20)
+![JQUERY](https://img.shields.io/static/v1?message=JQuery&logo=jquery&labelColor=3d8dfc&color=85827f&logoColor=white&label=%20)
+![REACT](https://img.shields.io/static/v1?message=React&logo=react&labelColor=ffffff&color=85827f&logoColor=blue&label=%20)
+![REDUX](https://img.shields.io/static/v1?message=Redux&logo=redux&labelColor=ffffff&color=85827f&logoColor=violet&label=%20)
+![VUE](https://img.shields.io/static/v1?message=Vue.js&logo=vuedotjs&labelColor=ffffff&color=85827f&label=%20)
+![BOOTSTRAP](https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&labelColor=ffffff&color=85827f&label=%20)
+![PHP](https://img.shields.io/static/v1?message=PHP&logo=php&labelColor=ffffff&color=85827f&label=%20)
+![MYSQL](https://img.shields.io/static/v1?message=MySQL&logo=mysql&labelColor=ffffff&color=85827f&label=%20)
+![LARAVEL](https://img.shields.io/static/v1?message=Laravel&logo=laravel&labelColor=ffffff&color=85827f&label=%20)
 
-<img src="https://cdn.iconscout.com/icon/free/png-256/html5-10-569380.png" alt="html5" width="100"/> <img src="https://cdn.iconscout.com/icon/free/png-256/css-118-569410.png" alt="css" width="100"/> <img src="https://cdn.iconscout.com/icon/free/png-256/sass-2749336-2284726.png" alt="sass" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="javascript" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/jquery-10-1175155.png" alt="jquery" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png" alt="php" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/mysql-19-1174939.png" alt="mysql" width="100"/>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" alt="react" width="100"/><br><br>
+### CMS
 
-## **Framework**
+![WORDPRESS](https://img.shields.io/badge/Wordpress-blue?style=flat&logo=wordpress&logoColor=white)
+![JOOMLA](https://img.shields.io/badge/Joomla-blue?style=flat&logo=joomla&logoColor=white)
 
-<img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png" alt="bootstrap" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/vuejs-1175052.png" alt="vue" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/laravel-2-1175146.png" alt="laravel" width="100"/>
-<br><br>
+*...but it does not the end*
 
-## **CMS**
-
-<img src="https://cdn.iconscout.com/icon/free/png-256/wordpress-35-569289.png" alt="wordpress" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/joomla-226006.png" alt="joomla" width="100"/><br><br>
-
-_...con la voglia di imparare sempre di più_
+![visitors](https://visitor-badge.glitch.me/badge?page_id=GiuseppeRussoGR.GiuseppeRussoGR&left_color=gray&right_color=blue)
