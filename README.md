@@ -32,5 +32,3 @@ Always passionate about technology and curious about its logic, lover of Movies 
 ![JOOMLA](https://img.shields.io/badge/Joomla-blue?style=flat&logo=joomla&logoColor=white)
 
 *...but it does not the end*
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=GiuseppeRussoGR.GiuseppeRussoGR&left_color=gray&right_color=blue)
