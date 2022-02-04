@@ -2,7 +2,7 @@
 
 ![Border](Border.svg)
 
-Hi, I'm Giuseppe a Jr. Full Stack Web Developer from Italia.
+Hi, I'm Giuseppe a Full Stack Web Developer from Italia.
 Always passionate about technology and curious about its logic, lover of Movies and SeriesTV and great gamer. A real Nerd. 🤓
 
 ## Reach me 📮
