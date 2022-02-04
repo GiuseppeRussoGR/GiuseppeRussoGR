@@ -31,4 +31,4 @@ Always passionate about technology and curious about its logic, lover of Movies 
 ![WORDPRESS](https://img.shields.io/badge/Wordpress-blue?style=flat&logo=wordpress&logoColor=white)
 ![JOOMLA](https://img.shields.io/badge/Joomla-blue?style=flat&logo=joomla&logoColor=white)
 
-*...but it does not the end*
+*...but it is not the end*
