@@ -8,7 +8,7 @@ Always passionate about technology and curious about its logic, lover of Movies 
 ## Reach me 📮
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/giuseppe-russo-dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=flat&logo=bookstack&logoColor=white)](https://www.linkedin.com/in/giuseppe-russo-dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=flat&logo=bookstack&logoColor=white)](https://www.giusepperusso-gr.it/)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=minutemailer&logoColor=white)](mailto:giuseppe.russo.dev@gmail.com)
 
 ### Technologies
