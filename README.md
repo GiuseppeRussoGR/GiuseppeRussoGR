@@ -16,9 +16,7 @@ PHP · Laravel · TypeScript · Next.js · React · Vue · Flutter · WordPress 
 
 *Plus*: WCAG 2.1 accessibility · SSO & auth · LLM/MCP integrations · browser extensions · desktop apps · legacy refactoring
 
-## Stats
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=GiuseppeRussoGR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/GiuseppeRussoGR)
+## Contributions
 
 [![Streak](https://streak-stats.demolab.com?user=GiuseppeRussoGR&theme=tokyonight&hide_border=true)](https://github.com/GiuseppeRussoGR)
 
